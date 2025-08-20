@@ -10,7 +10,7 @@
     <?php
     if (isset($_GET['nome'])) {
         $nome = $_GET['nome'];
-        echo' ' . $nome;
+        echo'Bem-vindo(a)' . $nome;
     }
     ?>
 </body>
